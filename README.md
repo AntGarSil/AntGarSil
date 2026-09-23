@@ -72,6 +72,8 @@ That usually means:
 
 ![Merged PRs](https://img.shields.io/github/search?query=type%3Apr%20is%3Amerged%20author%3AAntGarSil&label=Merged%20PRs&style=for-the-badge&color=2da44e&logo=github)
 
+<!-- Displays total contributions including merged PRs directly from GraphQL -->
+![Anton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntGarSil&include_all_commits=true&count_private=true&theme=dark)
 ---
 
 ## 🌐 Find me elsewhere
